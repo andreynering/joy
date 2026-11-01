@@ -1,0 +1,4 @@
+[editor]
+mode = "helix"
+trim-trailing-whitespace = true
+insert-final-newline = true
