@@ -2,3 +2,6 @@
 mode = "helix"
 trim-trailing-whitespace = true
 insert-final-newline = true
+
+[file-tree]
+show-hidden = true
